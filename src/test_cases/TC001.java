@@ -7,5 +7,7 @@ public class TC001 {
 
         // testing login functionality with invalid credentials
 
+        // negative testing
+
     }
 }
